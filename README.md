@@ -2,7 +2,7 @@
 
 📍 Oviedo, España
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,github,vite,sass,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,github,vite,sass,vscode)]
 <!--
 **FoxieFo/FoxieFo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
